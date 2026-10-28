@@ -15,7 +15,7 @@
 
 I am a law graduate moving into financial crime compliance. I wanted to show how I think through an onboarding case, not only list the rules I have read. This project follows the way a KYC team works: collect documents, verify them, rate the risk, decide, and write down the reasons.
 
-It has one standard procedure and two worked cases. One case is simple. The other has a hidden owner and ends in an escalation.
+It has one standard procedure and four worked cases. One case is simple. The other has a hidden owner and ends in an escalation.
 
 ---
 
